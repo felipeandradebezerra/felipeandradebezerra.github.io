@@ -1,8 +1,6 @@
 ## Welcome
 <h1 align="center">Hi, I'm Felipe Andrade</h1>
 
-I'm experienced managing and defining the best practices for working with Github and Amazon AWS (milestones, issues, changelogs, wiki, pipelines, projects)
-
 I'm also experienced managing hybrid and native technology based teams for mobile app development (React-native, Flutter, Swift, Kotlin, Java, ...).
  
 ## 💬 
